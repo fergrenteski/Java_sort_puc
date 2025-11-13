@@ -81,10 +81,10 @@ Para cada teste, o sistema coleta:
 #### Opção 1: Usando o script (Recomendado)
 ```bash
 # Dar permissão de execução (apenas uma vez)
-chmod +x executar.sh
+chmod +x compilar_e_executar.sh
 
 # Compilar e executar
-./executar.sh
+./compilar_e_executar.sh
 ```
 
 #### Opção 2: Compilação manual
